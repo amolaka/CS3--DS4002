@@ -1,2 +1,3 @@
-# CS3--DS4002
-Github repository for CS3 assignment of DS4002 Fall 2024
+# Dermatological Image Classification Analysis
+
+This repository contains all of the necessary background information, materials, and data to complete the classification analysis of dermatological lesion image data.
